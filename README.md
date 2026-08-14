@@ -12,18 +12,16 @@ Dog Ear is built around that question. It uses your reading history and stated i
 
 It's also built to be fast. Existing options are slow to open, slow to search, and heavy with social features most readers don't use. Dog Ear aims to be quick enough that logging a book takes less effort than not bothering.
 
-## Features
+## Status
+Currently at the planning and setup stage. The sections below describe
+what Dog Ear is being built to do, not what it does today.
 
-**Working**
-<!-- TODO: replace with what actually runs today -->
-- Book search and library management
-- Reading status tracking
 
-**In progress**
+**Planned Features**
 - AI-assisted recommendations based on reading history
 - Generated reading lists around themes and goals
-
-**Planned**
+- Book search and library management
+- Reading status tracking
 - Reading statistics and progress views
 - Import from existing services
 
